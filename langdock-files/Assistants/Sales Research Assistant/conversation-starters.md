@@ -1,0 +1,4 @@
+- Zeige mir die Top 3 Accounts für diese Woche
+- Welche Kunden haben ein erhöhtes Churn-Risiko?
+- Erstelle mir ein Pre-Call Briefing für TechFlow GmbH
+- Schreibe eine Cold-E-Mail für einen qualifizierten Lead aus der Tech-Branche

@@ -1,0 +1,4 @@
+- Die Mobile App stürzt auf meinem iPhone ständig ab
+- Ich habe eine Frage zur Rechnung von Urban Logistics AG
+- Unsere Slack-Benachrichtigungen kommen nicht an
+- Wann kommt der Dark Mode?
